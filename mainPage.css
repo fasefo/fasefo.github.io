@@ -1,8 +1,9 @@
 .headingOption {
 	margin-left: 2%;
 	font-size: 250%;
-	font-family: sans-serif;
+	font-family: 'Segoe UI';
 	color: #84affd;
+	font-weight: bold;
 }
 .headingOption:hover {
 	color: #c7dbff;
