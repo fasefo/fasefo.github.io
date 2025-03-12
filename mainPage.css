@@ -1,0 +1,27 @@
+.headingOption {
+	margin-left: 2%;
+	font-size: 250%;
+	font-family: sans-serif;
+	color: #84affd;
+}
+.headingOption:hover {
+	color: #c7dbff;
+}
+
+.mainHeader {
+	height: 70px;
+	background-color: #12377b;
+	display: flex;
+	position: sticky;
+	top: 0;
+}
+	a {
+	text-decoration: inherit;
+	color: inherit;
+	font-size: inherit;
+}
+a:visited {
+	text-decoration: inherit;
+	color: inherit;
+	font-size: inherit;
+}
