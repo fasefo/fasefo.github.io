@@ -17,6 +17,7 @@
 	justify-content: flex-end;
 	background-color: #282838;
 	display: flex;
+	align-items: center;
 	position: sticky;
 	top: 0;
 }
@@ -24,6 +25,7 @@
 .title {
 	width: 30%;
 	margin-top: 35px;
+	margin-bottom: 20px;
 	margin-left: 60px;
 	font-size: 280%;
 	font-family: 'Segoe UI';
