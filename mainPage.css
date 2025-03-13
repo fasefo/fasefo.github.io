@@ -1,22 +1,50 @@
 .headingOption {
-	margin-left: 2%;
-	font-size: 250%;
+	font-size: 168%;
 	font-family: 'Segoe UI';
-	color: #84affd;
+	color: #c6c6c6;
 	font-weight: bold;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-top: 7px;
+	padding-bottom: 7px;
 }
 .headingOption:hover {
-	color: #c7dbff;
+	color: rgb(171, 171, 171);
+	background-color: rgb(29, 29, 35);;
 }
 
 .mainHeader {
-	height: 70px;
-	background-color: #12377b;
+	justify-content: flex-end;
+	background-color: #282838;
 	display: flex;
 	position: sticky;
 	top: 0;
 }
-	a {
+
+.title {
+	width: 30%;
+	margin-top: 35px;
+	margin-left: 60px;
+	font-size: 280%;
+	font-family: 'Segoe UI';
+	color: #4d4f50;
+	font-weight: bold;
+}
+
+.standardText {
+	margin-top: 10px;
+	margin-left: 65px;
+	font-family: 'Segoe UI';
+	color: #4d4f50;
+	font-weight: bold;
+}
+
+.pfp {
+	aspect-ratio: 1;
+	height: 50px;
+}
+
+a {
 	text-decoration: inherit;
 	color: inherit;
 	font-size: inherit;
