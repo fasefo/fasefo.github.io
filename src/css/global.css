@@ -60,6 +60,11 @@
 	text-decoration: underline;
 	cursor: pointer;
 }
+.link:visited {
+	color: #0000EE;
+	text-decoration: underline;
+	cursor: pointer;
+}
 
 a {
 	text-decoration: inherit;
